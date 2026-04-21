@@ -1,0 +1,128 @@
+[
+  {
+    "timestamp": "2026-04-20T16:39:28.472761",
+    "query": "Đánh giá học lực của học sinh Lê Minh Cường",
+    "query_type": "evaluation",
+    "final_answer": "Dựa trên kết quả đánh giá được cung cấp, học sinh Lê Minh Cường có học lực khá tốt. \n\nĐiểm quá trình của học sinh là 8.4, 8.4, 7.5, cho thấy sự ổn định trong quá trình học tập. Điểm cuối kỳ của học sinh là 9.0, thể hiện sự xuất sắc trong kỳ thi cuối kỳ.\n\nVới điểm trung bình các môn và điểm cuối kỳ cao, có thể thấy học sinh Lê Minh Cường có học lực khá tốt. Tuy nhiên, để có đánh giá chính xác hơn, cần có thêm thông tin về điểm trung bình môn, tiêu chí đánh giá của trường.\n\nNgoài ra, tỷ lệ chuyên ",
+    "latency_seconds": 29.541805028915405,
+    "error": "",
+    "quality_assessment": {
+      "has_error": false,
+      "error_type": "none",
+      "answer_length": 684,
+      "answer_empty": false,
+      "latency_high": true,
+      "retrieved_data": 1,
+      "hallucination_risk": 0.0,
+      "quality_score": 0.9
+    }
+  },
+  {
+    "timestamp": "2026-04-20T16:39:28.472761",
+    "query": "So sánh điểm số của Hoàng Văn Em và Nguyễn Thị Linh",
+    "query_type": "comparison",
+    "final_answer": "Dựa trên dữ liệu được cung cấp, dưới đây là so sánh chi tiết về điểm số của Hoàng Văn Em và Nguyễn Thị Linh:\n\n1. **Điểm quá trình (Process Score):**\n   - Hoàng Văn Em: 6.9, 6.9, 6.8, 6.6, 5.9\n   - Nguyễn Thị Linh: 9.6, 10.0, 8.5, 9.4\n\n   Điểm quá trình của Hoàng Văn Em dao động từ 5.9 đến 6.9, trong khi của Nguyễn Thị Linh dao động từ 8.5 đến 10.0. Trung bình, điểm quá trình của Nguyễn Thị Linh cao hơn Hoàng Văn Em.\n\n2. **Điểm cuối kỳ (Final Score):**\n   - Hoàng Văn Em: 9.5\n   - Nguyễn Thị Linh:",
+    "latency_seconds": 3.2473795413970947,
+    "error": "",
+    "quality_assessment": {
+      "has_error": false,
+      "error_type": "none",
+      "answer_length": 1017,
+      "answer_empty": false,
+      "latency_high": false,
+      "retrieved_data": 2,
+      "hallucination_risk": 0.0,
+      "quality_score": 1.0
+    }
+  },
+  {
+    "timestamp": "2026-04-20T16:39:28.472761",
+    "query": "Học sinh nào có điểm chuyên cần dưới 0.8?",
+    "query_type": "list",
+    "final_answer": "Dựa trên dữ liệu được cung cấp, học sinh có điểm chuyên cần dưới 0.8 là:\n\n- Lý Bảo Phúc (HS152) với điểm chuyên cần là 0.65\n- Tạ Mỹ Giang (HS127) với điểm chuyên cần là 0.62\n- Doãn Trung Rồng (HS208) với điểm chuyên cần là 0.73",
+    "latency_seconds": 2.2296478748321533,
+    "error": "",
+    "quality_assessment": {
+      "has_error": false,
+      "error_type": "none",
+      "answer_length": 227,
+      "answer_empty": false,
+      "latency_high": false,
+      "retrieved_data": 5,
+      "hallucination_risk": 0.0,
+      "quality_score": 1.0
+    }
+  },
+  {
+    "timestamp": "2026-04-20T16:39:28.472761",
+    "query": "Thông tin chi tiết về học sinh HS035",
+    "query_type": "details",
+    "final_answer": "Dưới đây là thông tin chi tiết về học sinh có mã học sinh HS035:\n\n- **Tên học sinh:** Võ Văn Long\n- **Tuổi:** 17\n- **Lớp:** 12A3\n- **Trường:** THPT Lê Hồng Phong\n- **Điểm quá trình:** 9.7, 9.6, 10.0, 8.2\n- **Điểm cuối kỳ:** 9.7\n- **Tỉ lệ chuyên cần:** 1.0 \n\nNếu cần thêm thông tin khác, vui lòng cho biết!",
+    "latency_seconds": 2.121595621109009,
+    "error": "",
+    "quality_assessment": {
+      "has_error": false,
+      "error_type": "none",
+      "answer_length": 305,
+      "answer_empty": false,
+      "latency_high": false,
+      "retrieved_data": 1,
+      "hallucination_risk": 0.0,
+      "quality_score": 1.0
+    }
+  },
+  {
+    "timestamp": "2026-04-20T16:39:28.472761",
+    "query": "Học sinh nào đạt điểm toán cao nhất?",
+    "query_type": "ranking",
+    "final_answer": "Dựa trên dữ liệu cung cấp, để tìm học sinh đạt điểm toán cao nhất, chúng ta cần xem xét điểm cuối cùng (final_score) của từng học sinh vì không có thông tin cụ thể về điểm toán riêng biệt. \n\nDưới đây là thông tin về điểm cuối cùng của các học sinh:\n\n- Tạ Mỹ Giang: 7.2\n- Lâm Ánh Thảo: 7.6\n- Ngô Đức Kiên: 8.4\n- Mã Nam Nam: 4.7\n- Cao Mỹ Vân: 6.4\n\nNgô Đức Kiên với học sinh ID \"HS278\" có điểm cuối cùng cao nhất là 8.4. \n\nVậy, học sinh đạt điểm cao nhất là Ngô Đức Kiên.",
+    "latency_seconds": 3.3779170513153076,
+    "error": "",
+    "quality_assessment": {
+      "has_error": false,
+      "error_type": "none",
+      "answer_length": 468,
+      "answer_empty": false,
+      "latency_high": false,
+      "retrieved_data": 5,
+      "hallucination_risk": 0.0,
+      "quality_score": 1.0
+    }
+  },
+  {
+    "timestamp": "2026-04-20T16:39:28.472761",
+    "query": "Danh sách tất cả học sinh",
+    "query_type": "list",
+    "final_answer": "Dưới đây là danh sách tất cả học sinh:\n\n1. **Doãn Mỹ An**\n   - Tuổi: 15\n   - Mã học sinh: HS282\n   - Lớp: 10A3\n   - Trường: THPT Lê Hồng Phong\n   - Điểm quá trình: 9.6, 8.1, 7.3\n   - Điểm cuối kỳ: 8.7\n   - Chuyên cần: 0.75\n\n2. **Lý Anh Vương**\n   - Tuổi: 17\n   - Mã học sinh: HS224\n   - Lớp: 11B1\n   - Trường: THPT Lê Hồng Phong\n   - Điểm quá trình: 9.4, 9.9, 9.3\n   - Điểm cuối kỳ: 9.1\n   - Chuyên cần: 0.56\n\n3. **Cao Mỹ Vân**\n   - Tuổi: 15\n   - Mã học sinh: HS249\n   - Lớp: 10A4\n   - Trường: THPT C",
+    "latency_seconds": 3.3439218997955322,
+    "error": "",
+    "quality_assessment": {
+      "has_error": false,
+      "error_type": "none",
+      "answer_length": 950,
+      "answer_empty": false,
+      "latency_high": false,
+      "retrieved_data": 5,
+      "hallucination_risk": 0.0,
+      "quality_score": 1.0
+    }
+  },
+  {
+    "timestamp": "2026-04-20T16:39:28.472761",
+    "query": "Sáng nay có mưa không?",
+    "query_type": "out-of-domain",
+    "final_answer": "Tôi không thể trả lời câu hỏi của bạn vì dữ liệu context không cung cấp thông tin về thời tiết. Dữ liệu context chỉ cung cấp thông tin về các học sinh. Nếu bạn muốn hỏi thông tin về các học sinh, tôi có thể giúp bạn.",
+    "latency_seconds": 2.527869939804077,
+    "error": "",
+    "quality_assessment": {
+      "has_error": false,
+      "error_type": "none",
+      "answer_length": 216,
+      "answer_empty": false,
+      "latency_high": false,
+      "retrieved_data": 5,
+      "hallucination_risk": 0.0,
+      "quality_score": 1.0
+    }
+  }
+]

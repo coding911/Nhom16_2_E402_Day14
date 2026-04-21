@@ -1,0 +1,87 @@
+[
+  {
+    "prompt": "Đánh giá học lực của học sinh Lê Minh Cường",
+    "agent_metrics": {
+      "latency": 9.818,
+      "loop_count": 4,
+      "token_estimate": 287
+    },
+    "agent_error": "",
+    "agent_answer": "**Đánh giá học lực của học sinh Lê Minh Cường (HS003)**  \n\n- **Học lực**: Xuất sắc. Điểm trung bình học kỳ (process_score) là 8.5/10 và điểm cuối kỳ (final_score) là 9.0/10, cho thấy năng lực học tập ",
+    "baseline_metrics": {
+      "latency": 1.04,
+      "loop_count": 1,
+      "token_estimate": 2555
+    },
+    "baseline_error": "",
+    "baseline_answer": "**Đánh giá học lực của học sinh Lê Minh Cường**\n\n| Thông tin | Giá trị |\n|-----------|---------|\n| **Tuổi** | 16 |\n| **Lớp** | 10A2 |\n| **Trường** | THPT Chu Văn An |\n| **Điểm trung gian** | 8.5/10 |\n"
+  },
+  {
+    "prompt": "So sánh điểm số của Hoàng Văn Em và Nguyễn Thị Linh",
+    "agent_metrics": {
+      "latency": 4.883,
+      "loop_count": 4,
+      "token_estimate": 298
+    },
+    "agent_error": "",
+    "agent_answer": "**So sánh điểm số của Hoàng Văn Em và Nguyễn Thị Linh**\n\n| Học sinh | Điểm trung gian (process_score) | Điểm cuối kỳ (final_score) | Tỷ lệ điểm trung bình (tổng) |\n|----------|------------------------",
+    "baseline_metrics": {
+      "latency": 30.686,
+      "loop_count": 1,
+      "token_estimate": 2483
+    },
+    "baseline_error": "",
+    "baseline_answer": "**So sánh điểm số của Hoàng Văn Em và Nguyễn Thị Linh**\n\n| Học sinh | Điểm quá trình | Điểm cuối kỳ | Điểm trung bình (tổng) | Tỷ lệ điểm (điểm trung bình / 10) | Tỷ lệ điểm (điểm cuối kỳ / 10) |\n|---"
+  },
+  {
+    "prompt": "Học sinh nào có điểm chuyên cần dưới 0.8?",
+    "agent_metrics": {
+      "latency": 2.992,
+      "loop_count": 4,
+      "token_estimate": 33
+    },
+    "agent_error": "",
+    "agent_answer": "Học sinh có điểm chuyên cần dưới 0.8 là:\n\n- **Trần Thị Bình** (HS002) – Điểm chuyên cần 0.75.",
+    "baseline_metrics": {
+      "latency": 12.883,
+      "loop_count": 1,
+      "token_estimate": 2394
+    },
+    "baseline_error": "",
+    "baseline_answer": "Học sinh có điểm chuyên cần dưới 0.8 (tức là < 0.8) là:\n\n| STT | Họ và tên | Điểm chuyên cần |\n|-----|-----------|-----------------|\n| 1 | Trần Thị Bình | 0.75 |\n| 2 | Ngô Thị Phương | 0.65 |\n| 3 | Đặ"
+  },
+  {
+    "prompt": "Thông tin chi tiết về học sinh HS035",
+    "agent_metrics": {
+      "latency": 12.026,
+      "loop_count": 4,
+      "token_estimate": 156
+    },
+    "agent_error": "",
+    "agent_answer": "**Thông tin chi tiết học sinh HS035 – Võ Văn Long**\n\n| Thông tin | Giá trị |\n|-----------|---------|\n| **Mã học sinh** | HS035 |\n| **Tên** | Võ Văn Long |\n| **Tuổi** | 17 tuổi |\n| **Lớp** | 12A3 |\n| *",
+    "baseline_metrics": {
+      "latency": 27.965,
+      "loop_count": 1,
+      "token_estimate": 2366
+    },
+    "baseline_error": "",
+    "baseline_answer": "**Thông tin chi tiết học sinh HS035**\n\n| Tên | Võ Văn Long |\n|-----|-------------|\n| **Tuổi** | 17 tuổi |\n| **Mã số học sinh** | HS035 |\n| **Lớp** | 12A3 |\n| **Trường** | THPT Lê Hồng Phong |\n| **Điểm"
+  },
+  {
+    "prompt": "Sáng nay có mưa không?",
+    "agent_metrics": {
+      "latency": 12.174,
+      "loop_count": 4,
+      "token_estimate": 22
+    },
+    "agent_error": "",
+    "agent_answer": "Xin lỗi, tôi không có dữ liệu về thời tiết trong ngữ cảnh hiện tại.",
+    "baseline_metrics": {
+      "latency": 26.72,
+      "loop_count": 1,
+      "token_estimate": 2250
+    },
+    "baseline_error": "",
+    "baseline_answer": "Xin lỗi, tôi không có thông tin về thời tiết."
+  }
+]

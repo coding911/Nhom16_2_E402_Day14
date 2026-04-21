@@ -1,0 +1,13 @@
+{
+  "version_id": "v_current",
+  "timestamp": "2026-04-21T08:59:16.216152",
+  "avg_latency": 5.971,
+  "avg_quality_score": 0.9643,
+  "hit_rate_at_3": 0.9091,
+  "mrr": 0.8873,
+  "error_rate": 0.0,
+  "avg_cost_per_query": 0.0005,
+  "total_queries": 70,
+  "security_score": 0.0,
+  "ood_refusal_rate": 0.0
+}
