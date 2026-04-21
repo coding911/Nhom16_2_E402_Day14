@@ -1,0 +1,3911 @@
+[
+  {
+    "name": "Nguyễn Văn An",
+    "age": 16,
+    "student_id": "HS001",
+    "class_name": "10A1",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      5.1,
+      5.0,
+      6.5
+    ],
+    "final_score": 8.2,
+    "attendance": 0.95
+  },
+  {
+    "name": "Trần Thị Bình",
+    "age": 15,
+    "student_id": "HS002",
+    "class_name": "10A1",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      4.2,
+      4.4,
+      4.8
+    ],
+    "final_score": 5.5,
+    "attendance": 0.75
+  },
+  {
+    "name": "Lê Minh Cường",
+    "age": 16,
+    "student_id": "HS003",
+    "class_name": "10A2",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      8.4,
+      8.4,
+      7.5
+    ],
+    "final_score": 9.0,
+    "attendance": 0.98
+  },
+  {
+    "name": "Phạm Thu Dung",
+    "age": 15,
+    "student_id": "HS004",
+    "class_name": "10A2",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      5.6,
+      3.2,
+      5.6,
+      5.3,
+      4.2,
+      3.6
+    ],
+    "final_score": 5.8,
+    "attendance": 0.82
+  },
+  {
+    "name": "Hoàng Văn Em",
+    "age": 16,
+    "student_id": "HS005",
+    "class_name": "10A3",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      6.9,
+      6.9,
+      6.8,
+      6.6,
+      5.9
+    ],
+    "final_score": 9.5,
+    "attendance": 1.0
+  },
+  {
+    "name": "Ngô Thị Phương",
+    "age": 15,
+    "student_id": "HS006",
+    "class_name": "10A3",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      5.5,
+      3.8,
+      4.3,
+      5.1,
+      4.5,
+      5.2
+    ],
+    "final_score": 4.0,
+    "attendance": 0.65
+  },
+  {
+    "name": "Vũ Quốc Giang",
+    "age": 16,
+    "student_id": "HS007",
+    "class_name": "11A1",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      5.3,
+      5.9,
+      6.1,
+      5.4
+    ],
+    "final_score": 7.8,
+    "attendance": 0.9
+  },
+  {
+    "name": "Đặng Thị Hoa",
+    "age": 16,
+    "student_id": "HS008",
+    "class_name": "11A1",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      6.2,
+      6.4,
+      7.6,
+      5.6
+    ],
+    "final_score": 6.0,
+    "attendance": 0.78
+  },
+  {
+    "name": "Bùi Văn Hùng",
+    "age": 17,
+    "student_id": "HS009",
+    "class_name": "11A2",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      5.9,
+      7.9,
+      7.1,
+      6.9,
+      5.6
+    ],
+    "final_score": 8.5,
+    "attendance": 0.93
+  },
+  {
+    "name": "Đinh Thị Lan",
+    "age": 16,
+    "student_id": "HS010",
+    "class_name": "11A2",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      3.9,
+      5.7,
+      4.7,
+      4.4
+    ],
+    "final_score": 6.2,
+    "attendance": 0.85
+  },
+  {
+    "name": "Trương Văn Khánh",
+    "age": 17,
+    "student_id": "HS011",
+    "class_name": "11A3",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      4.7,
+      3.0,
+      2.4,
+      3.3,
+      3.1
+    ],
+    "final_score": 3.0,
+    "attendance": 0.55
+  },
+  {
+    "name": "Nguyễn Thị Linh",
+    "age": 16,
+    "student_id": "HS012",
+    "class_name": "11A3",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      9.6,
+      10.0,
+      8.5,
+      9.4
+    ],
+    "final_score": 9.8,
+    "attendance": 1.0
+  },
+  {
+    "name": "Phan Văn Mạnh",
+    "age": 17,
+    "student_id": "HS013",
+    "class_name": "12A1",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      4.7,
+      6.5,
+      5.9,
+      6.5,
+      5.6,
+      6.0
+    ],
+    "final_score": 7.5,
+    "attendance": 0.88
+  },
+  {
+    "name": "Lý Thị Ngọc",
+    "age": 17,
+    "student_id": "HS014",
+    "class_name": "12A1",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      7.1,
+      5.6,
+      4.3,
+      4.2,
+      4.4
+    ],
+    "final_score": 7.0,
+    "attendance": 0.91
+  },
+  {
+    "name": "Trần Văn Phú",
+    "age": 17,
+    "student_id": "HS015",
+    "class_name": "12A2",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      4.0,
+      2.9,
+      3.8,
+      5.7
+    ],
+    "final_score": 4.5,
+    "attendance": 0.7
+  },
+  {
+    "name": "Lê Thị Quỳnh",
+    "age": 17,
+    "student_id": "HS016",
+    "class_name": "12A2",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      9.9,
+      7.4,
+      9.5,
+      9.4,
+      9.0
+    ],
+    "final_score": 9.2,
+    "attendance": 0.97
+  },
+  {
+    "name": "Võ Văn Sơn",
+    "age": 17,
+    "student_id": "HS017",
+    "class_name": "12A3",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      5.3,
+      5.1,
+      4.7,
+      4.3,
+      6.4
+    ],
+    "final_score": 5.5,
+    "attendance": 0.8
+  },
+  {
+    "name": "Đinh Thị Trang",
+    "age": 16,
+    "student_id": "HS018",
+    "class_name": "10A1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      8.7,
+      8.0,
+      6.8,
+      8.3,
+      9.0
+    ],
+    "final_score": 8.0,
+    "attendance": 0.92
+  },
+  {
+    "name": "Nguyễn Văn Tuấn",
+    "age": 16,
+    "student_id": "HS019",
+    "class_name": "10A1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      5.7,
+      5.0,
+      5.7,
+      5.0
+    ],
+    "final_score": 6.8,
+    "attendance": 0.83
+  },
+  {
+    "name": "Phạm Thị Uyên",
+    "age": 15,
+    "student_id": "HS020",
+    "class_name": "10A2",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      8.4,
+      7.3,
+      8.1
+    ],
+    "final_score": 9.0,
+    "attendance": 0.99
+  },
+  {
+    "name": "Hoàng Văn Vinh",
+    "age": 16,
+    "student_id": "HS021",
+    "class_name": "10A2",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      3.4,
+      4.4,
+      2.9,
+      4.9,
+      5.1
+    ],
+    "final_score": 5.0,
+    "attendance": 0.72
+  },
+  {
+    "name": "Trần Thị Xuân",
+    "age": 15,
+    "student_id": "HS022",
+    "class_name": "10A3",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      5.5,
+      5.7,
+      4.9,
+      6.7
+    ],
+    "final_score": 7.5,
+    "attendance": 0.89
+  },
+  {
+    "name": "Lê Văn Yên",
+    "age": 16,
+    "student_id": "HS023",
+    "class_name": "10A3",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      9.6,
+      9.1,
+      8.9,
+      8.9,
+      8.0,
+      8.8
+    ],
+    "final_score": 8.8,
+    "attendance": 0.94
+  },
+  {
+    "name": "Vũ Thị Zung",
+    "age": 15,
+    "student_id": "HS024",
+    "class_name": "11A1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      4.2,
+      3.1,
+      3.4,
+      3.7,
+      4.5
+    ],
+    "final_score": 4.2,
+    "attendance": 0.68
+  },
+  {
+    "name": "Ngô Văn Anh",
+    "age": 16,
+    "student_id": "HS025",
+    "class_name": "11A1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      4.5,
+      6.7,
+      4.7,
+      4.7
+    ],
+    "final_score": 7.2,
+    "attendance": 0.86
+  },
+  {
+    "name": "Đặng Thị Bảo",
+    "age": 16,
+    "student_id": "HS026",
+    "class_name": "11A2",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      6.6,
+      7.1,
+      8.4
+    ],
+    "final_score": 8.2,
+    "attendance": 0.93
+  },
+  {
+    "name": "Bùi Văn Công",
+    "age": 17,
+    "student_id": "HS027",
+    "class_name": "11A2",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      4.2,
+      4.6,
+      3.7,
+      2.7
+    ],
+    "final_score": 3.5,
+    "attendance": 0.6
+  },
+  {
+    "name": "Đinh Thị Duyên",
+    "age": 16,
+    "student_id": "HS028",
+    "class_name": "11A3",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      6.4,
+      6.2,
+      7.2,
+      7.1,
+      7.3,
+      8.1
+    ],
+    "final_score": 7.8,
+    "attendance": 0.91
+  },
+  {
+    "name": "Trương Văn Đức",
+    "age": 17,
+    "student_id": "HS029",
+    "class_name": "11A3",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      7.9,
+      8.1,
+      6.0
+    ],
+    "final_score": 9.3,
+    "attendance": 0.98
+  },
+  {
+    "name": "Nguyễn Thị Giang",
+    "age": 16,
+    "student_id": "HS030",
+    "class_name": "12A1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      4.2,
+      4.1,
+      3.7,
+      3.6
+    ],
+    "final_score": 6.0,
+    "attendance": 0.81
+  },
+  {
+    "name": "Phan Văn Hải",
+    "age": 17,
+    "student_id": "HS031",
+    "class_name": "12A1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      7.1,
+      6.2,
+      4.7
+    ],
+    "final_score": 6.5,
+    "attendance": 0.77
+  },
+  {
+    "name": "Lý Thị Hương",
+    "age": 17,
+    "student_id": "HS032",
+    "class_name": "12A2",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      9.9,
+      9.6,
+      7.6
+    ],
+    "final_score": 8.9,
+    "attendance": 0.96
+  },
+  {
+    "name": "Trần Văn Khoa",
+    "age": 17,
+    "student_id": "HS033",
+    "class_name": "12A2",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      4.8,
+      5.0,
+      2.7,
+      2.2,
+      3.4,
+      5.0
+    ],
+    "final_score": 4.8,
+    "attendance": 0.74
+  },
+  {
+    "name": "Lê Thị Lan",
+    "age": 17,
+    "student_id": "HS034",
+    "class_name": "12A3",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      6.6,
+      6.7,
+      6.9,
+      6.5,
+      6.0,
+      5.1
+    ],
+    "final_score": 7.0,
+    "attendance": 0.88
+  },
+  {
+    "name": "Võ Văn Long",
+    "age": 17,
+    "student_id": "HS035",
+    "class_name": "12A3",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      9.7,
+      9.6,
+      10.0,
+      8.2
+    ],
+    "final_score": 9.7,
+    "attendance": 1.0
+  },
+  {
+    "name": "Đinh Thị Mai",
+    "age": 15,
+    "student_id": "HS036",
+    "class_name": "10A1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.5,
+      4.4,
+      6.8,
+      4.1,
+      4.5,
+      5.7
+    ],
+    "final_score": 6.5,
+    "attendance": 0.84
+  },
+  {
+    "name": "Nguyễn Văn Nam",
+    "age": 16,
+    "student_id": "HS037",
+    "class_name": "10A1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      8.2,
+      7.0,
+      7.1,
+      5.4
+    ],
+    "final_score": 8.0,
+    "attendance": 0.9
+  },
+  {
+    "name": "Phạm Thị Oanh",
+    "age": 15,
+    "student_id": "HS038",
+    "class_name": "10A2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      5.0,
+      4.9,
+      6.1
+    ],
+    "final_score": 5.0,
+    "attendance": 0.71
+  },
+  {
+    "name": "Hoàng Văn Phong",
+    "age": 16,
+    "student_id": "HS039",
+    "class_name": "10A2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      7.7,
+      7.6,
+      7.2,
+      8.7
+    ],
+    "final_score": 9.1,
+    "attendance": 0.97
+  },
+  {
+    "name": "Trần Thị Quế",
+    "age": 15,
+    "student_id": "HS040",
+    "class_name": "10A3",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      4.4,
+      2.4,
+      3.6,
+      5.2,
+      5.2,
+      2.4
+    ],
+    "final_score": 5.2,
+    "attendance": 0.79
+  },
+  {
+    "name": "Lê Văn Rồng",
+    "age": 16,
+    "student_id": "HS041",
+    "class_name": "10A3",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      5.0,
+      5.7,
+      4.8,
+      5.4
+    ],
+    "final_score": 7.2,
+    "attendance": 0.87
+  },
+  {
+    "name": "Vũ Thị Sương",
+    "age": 16,
+    "student_id": "HS042",
+    "class_name": "11A1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      8.6,
+      8.2,
+      7.9,
+      9.1,
+      8.1
+    ],
+    "final_score": 9.4,
+    "attendance": 0.99
+  },
+  {
+    "name": "Ngô Văn Thắng",
+    "age": 16,
+    "student_id": "HS043",
+    "class_name": "11A1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      5.0,
+      6.1,
+      3.6
+    ],
+    "final_score": 4.5,
+    "attendance": 0.66
+  },
+  {
+    "name": "Đặng Thị Uyên",
+    "age": 16,
+    "student_id": "HS044",
+    "class_name": "11A2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      7.4,
+      7.0,
+      5.2,
+      5.6
+    ],
+    "final_score": 7.8,
+    "attendance": 0.92
+  },
+  {
+    "name": "Bùi Văn Vinh",
+    "age": 17,
+    "student_id": "HS045",
+    "class_name": "11A2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      5.1,
+      6.4,
+      5.3,
+      6.0
+    ],
+    "final_score": 6.8,
+    "attendance": 0.83
+  },
+  {
+    "name": "Đinh Thị Xuân",
+    "age": 16,
+    "student_id": "HS046",
+    "class_name": "11A3",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.2,
+      5.7,
+      4.9
+    ],
+    "final_score": 8.5,
+    "attendance": 0.95
+  },
+  {
+    "name": "Trương Văn Yên",
+    "age": 17,
+    "student_id": "HS047",
+    "class_name": "11A3",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      2.7,
+      4.1,
+      3.6,
+      3.2
+    ],
+    "final_score": 4.0,
+    "attendance": 0.62
+  },
+  {
+    "name": "Nguyễn Thị Anh",
+    "age": 17,
+    "student_id": "HS048",
+    "class_name": "12A1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.9,
+      6.1,
+      4.5
+    ],
+    "final_score": 7.5,
+    "attendance": 0.89
+  },
+  {
+    "name": "Phan Văn Bình",
+    "age": 17,
+    "student_id": "HS049",
+    "class_name": "12A2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      9.0,
+      7.7,
+      7.7
+    ],
+    "final_score": 9.2,
+    "attendance": 0.98
+  },
+  {
+    "name": "Lý Thị Châu",
+    "age": 17,
+    "student_id": "HS050",
+    "class_name": "12A3",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.2,
+      6.4,
+      3.6,
+      4.5,
+      5.5
+    ],
+    "final_score": 6.5,
+    "attendance": 0.81
+  },
+  {
+    "name": "Lại Đức Anh",
+    "age": 8,
+    "student_id": "HS099",
+    "class_name": "12A4",
+    "school": "Đống Đa",
+    "process_score": [
+      7.1,
+      8.0,
+      8.3
+    ],
+    "final_score": 9.0,
+    "attendance": 8
+  },
+  {
+    "name": "ABC",
+    "age": 18,
+    "student_id": "HS123",
+    "class_name": "7A2",
+    "school": "VinUni",
+    "process_score": [
+      1.9,
+      1.6,
+      3.6,
+      1.7
+    ],
+    "final_score": 3,
+    "attendance": 4
+  },
+  {
+    "name": "Nguyễn Thúy Lệ",
+    "age": 17,
+    "student_id": "HS100",
+    "class_name": "11B1",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      7.7,
+      5.6,
+      7.9,
+      7.9
+    ],
+    "final_score": 8.1,
+    "attendance": 0.94
+  },
+  {
+    "name": "Phan Bảo Phong",
+    "age": 16,
+    "student_id": "HS101",
+    "class_name": "11A4",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      3.3,
+      5.4,
+      4.2,
+      4.6,
+      5.1
+    ],
+    "final_score": 5.6,
+    "attendance": 0.85
+  },
+  {
+    "name": "Nguyễn Kim Yến",
+    "age": 16,
+    "student_id": "HS102",
+    "class_name": "11A3",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      6.3,
+      7.6,
+      6.6
+    ],
+    "final_score": 7.3,
+    "attendance": 0.99
+  },
+  {
+    "name": "Hồ Vĩnh Hùng",
+    "age": 16,
+    "student_id": "HS103",
+    "class_name": "11A3",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      5.4,
+      7.2,
+      6.1,
+      6.1
+    ],
+    "final_score": 7.7,
+    "attendance": 0.55
+  },
+  {
+    "name": "Mã Thành Tuấn",
+    "age": 17,
+    "student_id": "HS104",
+    "class_name": "11A4",
+    "school": "THPT Gia Định",
+    "process_score": [
+      5.5,
+      4.6,
+      5.7,
+      4.0
+    ],
+    "final_score": 6.2,
+    "attendance": 0.86
+  },
+  {
+    "name": "Hồ Oanh Thảo",
+    "age": 16,
+    "student_id": "HS105",
+    "class_name": "10A1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      5.2,
+      4.5,
+      5.2,
+      6.5,
+      6.2
+    ],
+    "final_score": 6.0,
+    "attendance": 0.74
+  },
+  {
+    "name": "Tạ Quốc Minh",
+    "age": 18,
+    "student_id": "HS106",
+    "class_name": "12B1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      2.8,
+      2.3,
+      2.9,
+      3.6,
+      4.7
+    ],
+    "final_score": 4.7,
+    "attendance": 0.98
+  },
+  {
+    "name": "Dương Duy Đạt",
+    "age": 17,
+    "student_id": "HS107",
+    "class_name": "11A1",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      8.1,
+      8.2,
+      7.8
+    ],
+    "final_score": 6.9,
+    "attendance": 0.66
+  },
+  {
+    "name": "Huỳnh Phú Sơn",
+    "age": 15,
+    "student_id": "HS108",
+    "class_name": "10A2",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      9.7,
+      8.5,
+      9.6,
+      9.4,
+      8.6,
+      8.9
+    ],
+    "final_score": 8.8,
+    "attendance": 0.6
+  },
+  {
+    "name": "Đào Oanh Quỳnh",
+    "age": 16,
+    "student_id": "HS109",
+    "class_name": "10B2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      6.7,
+      7.0,
+      6.0,
+      5.4,
+      6.0
+    ],
+    "final_score": 6.8,
+    "attendance": 0.89
+  },
+  {
+    "name": "Bùi Thanh Yến",
+    "age": 17,
+    "student_id": "HS110",
+    "class_name": "12B2",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      3.7,
+      4.7,
+      5.1,
+      4.8
+    ],
+    "final_score": 5.1,
+    "attendance": 0.65
+  },
+  {
+    "name": "Đào Duy Quân",
+    "age": 16,
+    "student_id": "HS111",
+    "class_name": "10A1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      8.3,
+      6.7,
+      7.7,
+      7.1,
+      7.2,
+      6.1
+    ],
+    "final_score": 6.9,
+    "attendance": 0.97
+  },
+  {
+    "name": "Võ Duy Thắng",
+    "age": 16,
+    "student_id": "HS112",
+    "class_name": "10A1",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      7.6,
+      7.8,
+      6.5,
+      7.6
+    ],
+    "final_score": 6.3,
+    "attendance": 0.86
+  },
+  {
+    "name": "Lê Duy Em",
+    "age": 17,
+    "student_id": "HS113",
+    "class_name": "12A3",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      4.3,
+      3.2,
+      4.3,
+      4.5,
+      2.8,
+      2.3
+    ],
+    "final_score": 4.3,
+    "attendance": 0.72
+  },
+  {
+    "name": "Mã Tài Bình",
+    "age": 16,
+    "student_id": "HS114",
+    "class_name": "11B2",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      8.6,
+      6.4,
+      5.8
+    ],
+    "final_score": 7.5,
+    "attendance": 0.9
+  },
+  {
+    "name": "Vũ Đức Thắng",
+    "age": 15,
+    "student_id": "HS115",
+    "class_name": "10A4",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      7.7,
+      7.0,
+      7.2,
+      5.3
+    ],
+    "final_score": 6.8,
+    "attendance": 0.67
+  },
+  {
+    "name": "Phạm Trang An",
+    "age": 17,
+    "student_id": "HS116",
+    "class_name": "11A4",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      5.9,
+      6.1,
+      5.4,
+      3.9
+    ],
+    "final_score": 6.5,
+    "attendance": 0.87
+  },
+  {
+    "name": "Đỗ Tài Rồng",
+    "age": 16,
+    "student_id": "HS117",
+    "class_name": "11B2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      5.8,
+      8.3,
+      7.4,
+      7.9,
+      7.6,
+      6.8
+    ],
+    "final_score": 7.0,
+    "attendance": 0.7
+  },
+  {
+    "name": "Tô Oanh Nhi",
+    "age": 18,
+    "student_id": "HS118",
+    "class_name": "12A4",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      7.7,
+      5.5,
+      7.9,
+      6.0,
+      6.6
+    ],
+    "final_score": 6.7,
+    "attendance": 0.88
+  },
+  {
+    "name": "Bùi Thị Sương",
+    "age": 16,
+    "student_id": "HS119",
+    "class_name": "11B1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.1,
+      6.9,
+      5.9,
+      5.8,
+      4.8
+    ],
+    "final_score": 6.9,
+    "attendance": 0.71
+  },
+  {
+    "name": "Mã Duy Thắng",
+    "age": 17,
+    "student_id": "HS120",
+    "class_name": "12B2",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      6.3,
+      6.7,
+      8.1,
+      6.9,
+      7.8,
+      7.4
+    ],
+    "final_score": 7.7,
+    "attendance": 0.84
+  },
+  {
+    "name": "Ngô Oanh Mai",
+    "age": 17,
+    "student_id": "HS121",
+    "class_name": "11B2",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      5.7,
+      6.3,
+      5.5,
+      4.0
+    ],
+    "final_score": 5.9,
+    "attendance": 0.66
+  },
+  {
+    "name": "Võ Trang Nhi",
+    "age": 18,
+    "student_id": "HS122",
+    "class_name": "12B1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      7.6,
+      8.8,
+      7.1,
+      6.8
+    ],
+    "final_score": 9.4,
+    "attendance": 0.92
+  },
+  {
+    "name": "Trương Thành Lâm",
+    "age": 16,
+    "student_id": "HS124",
+    "class_name": "10B1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      3.8,
+      5.7,
+      3.5,
+      5.4,
+      3.1,
+      3.0
+    ],
+    "final_score": 4.8,
+    "attendance": 0.56
+  },
+  {
+    "name": "Lê Trang Châu",
+    "age": 15,
+    "student_id": "HS125",
+    "class_name": "10A2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      4.5,
+      6.5,
+      6.0
+    ],
+    "final_score": 5.2,
+    "attendance": 0.8
+  },
+  {
+    "name": "Cao Phú Quân",
+    "age": 18,
+    "student_id": "HS126",
+    "class_name": "12A3",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      4.3,
+      7.0,
+      4.4,
+      6.4,
+      6.0
+    ],
+    "final_score": 6.1,
+    "attendance": 0.81
+  },
+  {
+    "name": "Tạ Mỹ Giang",
+    "age": 16,
+    "student_id": "HS127",
+    "class_name": "11A2",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      6.8,
+      5.5,
+      6.2,
+      6.2,
+      7.9,
+      5.6
+    ],
+    "final_score": 7.2,
+    "attendance": 0.62
+  },
+  {
+    "name": "Doãn Khoa Quý",
+    "age": 17,
+    "student_id": "HS128",
+    "class_name": "11A1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      3.8,
+      4.1,
+      4.5,
+      5.8,
+      5.3
+    ],
+    "final_score": 4.9,
+    "attendance": 0.65
+  },
+  {
+    "name": "Dương Kim Quỳnh",
+    "age": 17,
+    "student_id": "HS129",
+    "class_name": "11A4",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      5.9,
+      7.1,
+      6.7,
+      6.5,
+      6.0,
+      8.6
+    ],
+    "final_score": 9.0,
+    "attendance": 0.78
+  },
+  {
+    "name": "Cao Khoa Xuân",
+    "age": 15,
+    "student_id": "HS130",
+    "class_name": "10A2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.9,
+      8.1,
+      8.5,
+      7.0
+    ],
+    "final_score": 6.8,
+    "attendance": 0.84
+  },
+  {
+    "name": "Bùi Thanh Dung",
+    "age": 15,
+    "student_id": "HS131",
+    "class_name": "10A4",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.4,
+      6.1,
+      5.7,
+      5.7,
+      7.6,
+      5.9
+    ],
+    "final_score": 6.2,
+    "attendance": 0.86
+  },
+  {
+    "name": "Tạ Tài Sơn",
+    "age": 17,
+    "student_id": "HS132",
+    "class_name": "12A2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      5.9,
+      4.2,
+      5.3,
+      6.4,
+      4.9,
+      5.7
+    ],
+    "final_score": 5.4,
+    "attendance": 0.71
+  },
+  {
+    "name": "Nguyễn Công Quý",
+    "age": 16,
+    "student_id": "HS133",
+    "class_name": "11A2",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      6.0,
+      3.8,
+      6.3
+    ],
+    "final_score": 6.1,
+    "attendance": 0.56
+  },
+  {
+    "name": "Lý Thành Tuấn",
+    "age": 17,
+    "student_id": "HS134",
+    "class_name": "11A3",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      7.2,
+      8.8,
+      7.6,
+      8.7,
+      8.7,
+      6.9
+    ],
+    "final_score": 8.3,
+    "attendance": 0.99
+  },
+  {
+    "name": "Bùi Yến Lan",
+    "age": 16,
+    "student_id": "HS135",
+    "class_name": "10A1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      7.6,
+      7.7,
+      7.2,
+      8.5,
+      7.4,
+      9.0
+    ],
+    "final_score": 7.8,
+    "attendance": 0.93
+  },
+  {
+    "name": "Hà Tuấn Xuân",
+    "age": 17,
+    "student_id": "HS136",
+    "class_name": "12A1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      8.9,
+      7.6,
+      8.5,
+      8.9,
+      9.4,
+      8.0
+    ],
+    "final_score": 8.4,
+    "attendance": 0.73
+  },
+  {
+    "name": "Hoàng Phú Xuân",
+    "age": 16,
+    "student_id": "HS137",
+    "class_name": "11B1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      5.6,
+      7.8,
+      8.1,
+      5.4,
+      7.5,
+      6.0
+    ],
+    "final_score": 8.5,
+    "attendance": 0.75
+  },
+  {
+    "name": "Thái Mỹ Vy",
+    "age": 17,
+    "student_id": "HS138",
+    "class_name": "11B1",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      7.5,
+      7.6,
+      9.3,
+      10.0,
+      10.0,
+      9.7
+    ],
+    "final_score": 9.1,
+    "attendance": 0.83
+  },
+  {
+    "name": "Phạm Kim Quỳnh",
+    "age": 16,
+    "student_id": "HS139",
+    "class_name": "10B2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      7.0,
+      6.4,
+      7.5
+    ],
+    "final_score": 8.7,
+    "attendance": 0.57
+  },
+  {
+    "name": "Huỳnh Trung Cường",
+    "age": 17,
+    "student_id": "HS140",
+    "class_name": "12A1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      6.5,
+      7.1,
+      7.8,
+      6.5,
+      5.9,
+      6.7
+    ],
+    "final_score": 7.0,
+    "attendance": 0.81
+  },
+  {
+    "name": "Dương Long Xuân",
+    "age": 17,
+    "student_id": "HS141",
+    "class_name": "11A4",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      9.0,
+      6.7,
+      7.6,
+      7.5
+    ],
+    "final_score": 7.7,
+    "attendance": 0.76
+  },
+  {
+    "name": "Hà Linh An",
+    "age": 18,
+    "student_id": "HS142",
+    "class_name": "12A1",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      4.7,
+      5.0,
+      5.2
+    ],
+    "final_score": 3.5,
+    "attendance": 0.94
+  },
+  {
+    "name": "Tô Long Kiên",
+    "age": 17,
+    "student_id": "HS143",
+    "class_name": "11A1",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      8.3,
+      7.5,
+      6.5,
+      6.9
+    ],
+    "final_score": 7.6,
+    "attendance": 0.87
+  },
+  {
+    "name": "Mã Thu Chi",
+    "age": 17,
+    "student_id": "HS144",
+    "class_name": "11A4",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      8.4,
+      8.2,
+      6.4,
+      8.1,
+      7.1
+    ],
+    "final_score": 7.9,
+    "attendance": 0.63
+  },
+  {
+    "name": "Mã Thanh Phụng",
+    "age": 16,
+    "student_id": "HS145",
+    "class_name": "10A4",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      10.0,
+      8.8,
+      10.0,
+      7.8,
+      9.3,
+      9.1
+    ],
+    "final_score": 9.2,
+    "attendance": 0.61
+  },
+  {
+    "name": "Lâm Ánh Thảo",
+    "age": 16,
+    "student_id": "HS146",
+    "class_name": "11B2",
+    "school": "THPT Gia Định",
+    "process_score": [
+      6.8,
+      6.4,
+      8.6,
+      8.9,
+      7.1
+    ],
+    "final_score": 7.6,
+    "attendance": 0.76
+  },
+  {
+    "name": "Phạm Thu Bảo",
+    "age": 16,
+    "student_id": "HS147",
+    "class_name": "10A2",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      8.1,
+      9.9,
+      9.1,
+      8.6
+    ],
+    "final_score": 9.7,
+    "attendance": 0.6
+  },
+  {
+    "name": "Chu Duy Hải",
+    "age": 16,
+    "student_id": "HS148",
+    "class_name": "10A4",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.2,
+      6.9,
+      6.2
+    ],
+    "final_score": 7.4,
+    "attendance": 0.97
+  },
+  {
+    "name": "Phạm Phương Uyên",
+    "age": 16,
+    "student_id": "HS149",
+    "class_name": "11B2",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      4.2,
+      5.5,
+      6.4,
+      3.7,
+      4.5,
+      6.5
+    ],
+    "final_score": 6.5,
+    "attendance": 0.64
+  },
+  {
+    "name": "Lê Tài Hùng",
+    "age": 16,
+    "student_id": "HS150",
+    "class_name": "11A1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      6.6,
+      6.6,
+      5.3
+    ],
+    "final_score": 6.2,
+    "attendance": 0.62
+  },
+  {
+    "name": "Phạm Văn Em",
+    "age": 16,
+    "student_id": "HS151",
+    "class_name": "10A1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      5.3,
+      7.4,
+      6.7
+    ],
+    "final_score": 8.1,
+    "attendance": 0.66
+  },
+  {
+    "name": "Lý Bảo Phúc",
+    "age": 16,
+    "student_id": "HS152",
+    "class_name": "11B2",
+    "school": "THPT Gia Định",
+    "process_score": [
+      7.8,
+      7.1,
+      6.0
+    ],
+    "final_score": 6.8,
+    "attendance": 0.65
+  },
+  {
+    "name": "Trần Quang Vương",
+    "age": 18,
+    "student_id": "HS153",
+    "class_name": "12A1",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      7.2,
+      6.7,
+      6.6
+    ],
+    "final_score": 7.7,
+    "attendance": 0.77
+  },
+  {
+    "name": "Hồ Vân Trang",
+    "age": 17,
+    "student_id": "HS154",
+    "class_name": "11A4",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      7.5,
+      7.8,
+      7.7
+    ],
+    "final_score": 7.0,
+    "attendance": 0.74
+  },
+  {
+    "name": "Ngô Bảo Đạt",
+    "age": 17,
+    "student_id": "HS155",
+    "class_name": "11A2",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      4.7,
+      4.6,
+      6.7
+    ],
+    "final_score": 6.3,
+    "attendance": 0.75
+  },
+  {
+    "name": "Lê Mỹ Thảo",
+    "age": 15,
+    "student_id": "HS156",
+    "class_name": "10A3",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.4,
+      6.3,
+      5.6,
+      5.0
+    ],
+    "final_score": 6.7,
+    "attendance": 0.89
+  },
+  {
+    "name": "Tống Hà Vy",
+    "age": 16,
+    "student_id": "HS157",
+    "class_name": "10A2",
+    "school": "THPT Gia Định",
+    "process_score": [
+      5.8,
+      6.9,
+      5.4,
+      6.0
+    ],
+    "final_score": 7.3,
+    "attendance": 0.71
+  },
+  {
+    "name": "Cao Khoa Xuân",
+    "age": 17,
+    "student_id": "HS158",
+    "class_name": "11A2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      8.3,
+      8.4,
+      6.4
+    ],
+    "final_score": 8.4,
+    "attendance": 0.99
+  },
+  {
+    "name": "Hà Linh Hằng",
+    "age": 17,
+    "student_id": "HS159",
+    "class_name": "11B1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      2.9,
+      3.6,
+      1.0,
+      2.3,
+      1.8,
+      2.1
+    ],
+    "final_score": 3.4,
+    "attendance": 0.94
+  },
+  {
+    "name": "Đỗ Thành Ninh",
+    "age": 16,
+    "student_id": "HS160",
+    "class_name": "11B1",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      7.4,
+      8.6,
+      8.0
+    ],
+    "final_score": 8.6,
+    "attendance": 0.62
+  },
+  {
+    "name": "Ngô Mai Hoa",
+    "age": 17,
+    "student_id": "HS161",
+    "class_name": "12B1",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      5.1,
+      4.9,
+      7.2,
+      4.4,
+      4.8,
+      7.1
+    ],
+    "final_score": 6.3,
+    "attendance": 0.6
+  },
+  {
+    "name": "Cao Khoa Minh",
+    "age": 16,
+    "student_id": "HS162",
+    "class_name": "11B1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      3.5,
+      2.9,
+      3.9,
+      3.8
+    ],
+    "final_score": 3.5,
+    "attendance": 0.89
+  },
+  {
+    "name": "Hồ Minh Rồng",
+    "age": 16,
+    "student_id": "HS163",
+    "class_name": "10A1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      8.7,
+      7.8,
+      6.9,
+      6.6,
+      7.5,
+      9.0
+    ],
+    "final_score": 8.8,
+    "attendance": 0.94
+  },
+  {
+    "name": "Đào Phương Chi",
+    "age": 17,
+    "student_id": "HS164",
+    "class_name": "12A2",
+    "school": "THPT Gia Định",
+    "process_score": [
+      4.4,
+      4.5,
+      4.5
+    ],
+    "final_score": 5.8,
+    "attendance": 0.81
+  },
+  {
+    "name": "Lê Phú Hải",
+    "age": 15,
+    "student_id": "HS165",
+    "class_name": "10A4",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      6.2,
+      6.4,
+      7.6,
+      8.1
+    ],
+    "final_score": 8.7,
+    "attendance": 0.71
+  },
+  {
+    "name": "Huỳnh Quang Sơn",
+    "age": 18,
+    "student_id": "HS166",
+    "class_name": "12A3",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      6.6,
+      6.2,
+      6.1,
+      5.5,
+      6.8,
+      6.2
+    ],
+    "final_score": 8.5,
+    "attendance": 0.83
+  },
+  {
+    "name": "Trần Ngọc Ngọc",
+    "age": 16,
+    "student_id": "HS167",
+    "class_name": "11A4",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      6.8,
+      7.6,
+      7.9,
+      6.5,
+      7.6,
+      7.1
+    ],
+    "final_score": 7.5,
+    "attendance": 0.99
+  },
+  {
+    "name": "Tô Bích Trang",
+    "age": 15,
+    "student_id": "HS168",
+    "class_name": "10B1",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      5.8,
+      7.5,
+      5.7,
+      7.7,
+      8.6
+    ],
+    "final_score": 6.8,
+    "attendance": 0.91
+  },
+  {
+    "name": "Đỗ Long Hiếu",
+    "age": 17,
+    "student_id": "HS169",
+    "class_name": "11A4",
+    "school": "THPT Gia Định",
+    "process_score": [
+      7.0,
+      5.2,
+      5.3
+    ],
+    "final_score": 6.6,
+    "attendance": 0.7
+  },
+  {
+    "name": "Đặng Mai Lệ",
+    "age": 16,
+    "student_id": "HS170",
+    "class_name": "10B1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      5.7,
+      4.8,
+      5.4,
+      6.4,
+      4.5
+    ],
+    "final_score": 4.6,
+    "attendance": 0.85
+  },
+  {
+    "name": "Thái Thanh Thảo",
+    "age": 15,
+    "student_id": "HS171",
+    "class_name": "10B1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      5.5,
+      5.6,
+      7.8
+    ],
+    "final_score": 7.5,
+    "attendance": 0.74
+  },
+  {
+    "name": "Phan Lan Em",
+    "age": 15,
+    "student_id": "HS172",
+    "class_name": "10B1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      6.9,
+      6.2,
+      6.1
+    ],
+    "final_score": 6.1,
+    "attendance": 0.9
+  },
+  {
+    "name": "Huỳnh Trung Trung",
+    "age": 16,
+    "student_id": "HS173",
+    "class_name": "10B2",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      5.1,
+      5.5,
+      5.6,
+      3.9
+    ],
+    "final_score": 4.2,
+    "attendance": 0.71
+  },
+  {
+    "name": "Đặng Quang Đạt",
+    "age": 17,
+    "student_id": "HS174",
+    "class_name": "11A1",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      8.2,
+      7.4,
+      7.1,
+      6.4,
+      6.5,
+      7.7
+    ],
+    "final_score": 7.6,
+    "attendance": 0.81
+  },
+  {
+    "name": "Trần Bích Vy",
+    "age": 16,
+    "student_id": "HS175",
+    "class_name": "11B2",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      5.2,
+      6.0,
+      6.2,
+      7.2,
+      5.0
+    ],
+    "final_score": 7.8,
+    "attendance": 0.78
+  },
+  {
+    "name": "Đào Bảo Đạt",
+    "age": 16,
+    "student_id": "HS176",
+    "class_name": "11B2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      4.5,
+      4.9,
+      5.2,
+      4.5
+    ],
+    "final_score": 6.6,
+    "attendance": 0.73
+  },
+  {
+    "name": "Kiều Thu Em",
+    "age": 16,
+    "student_id": "HS177",
+    "class_name": "10A2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      8.3,
+      8.8,
+      9.7,
+      7.0
+    ],
+    "final_score": 8.8,
+    "attendance": 0.76
+  },
+  {
+    "name": "Đào Đức Vinh",
+    "age": 18,
+    "student_id": "HS178",
+    "class_name": "12B1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      3.3,
+      4.4,
+      3.4
+    ],
+    "final_score": 4.9,
+    "attendance": 0.68
+  },
+  {
+    "name": "Đào Quang Yên",
+    "age": 17,
+    "student_id": "HS179",
+    "class_name": "12B2",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      4.8,
+      5.9,
+      6.5,
+      5.4
+    ],
+    "final_score": 7.5,
+    "attendance": 0.81
+  },
+  {
+    "name": "Đinh Long Cường",
+    "age": 17,
+    "student_id": "HS180",
+    "class_name": "12B1",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      6.1,
+      5.4,
+      7.7,
+      6.3,
+      7.5,
+      7.2
+    ],
+    "final_score": 6.5,
+    "attendance": 0.76
+  },
+  {
+    "name": "Hoàng Ngọc Ngọc",
+    "age": 18,
+    "student_id": "HS181",
+    "class_name": "12B2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      8.3,
+      7.4,
+      7.2,
+      9.0,
+      9.7,
+      7.0
+    ],
+    "final_score": 8.2,
+    "attendance": 0.63
+  },
+  {
+    "name": "Trần Anh Đạt",
+    "age": 16,
+    "student_id": "HS182",
+    "class_name": "10A2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      8.3,
+      6.6,
+      7.1,
+      8.4,
+      8.6,
+      7.0
+    ],
+    "final_score": 8.9,
+    "attendance": 0.78
+  },
+  {
+    "name": "Kiều Long Rồng",
+    "age": 18,
+    "student_id": "HS183",
+    "class_name": "12A1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      7.7,
+      9.0,
+      7.4,
+      6.9,
+      7.9,
+      7.9
+    ],
+    "final_score": 8.6,
+    "attendance": 0.72
+  },
+  {
+    "name": "Trương Thành Nam",
+    "age": 15,
+    "student_id": "HS184",
+    "class_name": "10A4",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      4.7,
+      4.8,
+      5.6,
+      6.1,
+      5.3,
+      4.7
+    ],
+    "final_score": 6.2,
+    "attendance": 0.68
+  },
+  {
+    "name": "Lê Nam Phong",
+    "age": 17,
+    "student_id": "HS185",
+    "class_name": "12B1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      6.0,
+      8.1,
+      6.9,
+      6.9,
+      7.5,
+      7.6
+    ],
+    "final_score": 9.1,
+    "attendance": 0.61
+  },
+  {
+    "name": "Đỗ Phương Quỳnh",
+    "age": 15,
+    "student_id": "HS186",
+    "class_name": "10A3",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      4.7,
+      6.6,
+      5.9,
+      5.6,
+      6.1
+    ],
+    "final_score": 7.1,
+    "attendance": 0.73
+  },
+  {
+    "name": "Cao Mai Hiền",
+    "age": 17,
+    "student_id": "HS187",
+    "class_name": "12A3",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      9.0,
+      7.8,
+      9.2,
+      7.8
+    ],
+    "final_score": 9.7,
+    "attendance": 0.68
+  },
+  {
+    "name": "Kiều Hùng Khoa",
+    "age": 16,
+    "student_id": "HS188",
+    "class_name": "11B2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      8.2,
+      7.3,
+      7.8,
+      6.9
+    ],
+    "final_score": 7.2,
+    "attendance": 0.68
+  },
+  {
+    "name": "Phan Đức Kiên",
+    "age": 17,
+    "student_id": "HS189",
+    "class_name": "12A4",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      4.7,
+      5.4,
+      7.5,
+      6.6
+    ],
+    "final_score": 6.4,
+    "attendance": 0.81
+  },
+  {
+    "name": "Cao Hà Thảo",
+    "age": 15,
+    "student_id": "HS190",
+    "class_name": "10A3",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      8.3,
+      9.9,
+      9.6,
+      9.1,
+      7.8,
+      10.0
+    ],
+    "final_score": 9.3,
+    "attendance": 0.84
+  },
+  {
+    "name": "Đinh Ngọc Thảo",
+    "age": 15,
+    "student_id": "HS191",
+    "class_name": "10A4",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      6.5,
+      6.4,
+      6.2,
+      4.4
+    ],
+    "final_score": 6.1,
+    "attendance": 0.62
+  },
+  {
+    "name": "Hoàng Linh Xuân",
+    "age": 17,
+    "student_id": "HS192",
+    "class_name": "12B2",
+    "school": "THPT Gia Định",
+    "process_score": [
+      6.0,
+      6.8,
+      5.2,
+      6.9
+    ],
+    "final_score": 7.0,
+    "attendance": 0.63
+  },
+  {
+    "name": "Đào Văn Cường",
+    "age": 16,
+    "student_id": "HS193",
+    "class_name": "10A2",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      7.1,
+      6.1,
+      8.1
+    ],
+    "final_score": 7.5,
+    "attendance": 0.9
+  },
+  {
+    "name": "Vũ Ánh Linh",
+    "age": 17,
+    "student_id": "HS194",
+    "class_name": "12A3",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      6.4,
+      5.8,
+      7.9,
+      6.3,
+      8.3,
+      6.4
+    ],
+    "final_score": 7.7,
+    "attendance": 0.62
+  },
+  {
+    "name": "Hoàng Phương Trang",
+    "age": 17,
+    "student_id": "HS195",
+    "class_name": "12B2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      3.9,
+      4.4,
+      4.7,
+      5.4,
+      4.3,
+      6.2
+    ],
+    "final_score": 6.2,
+    "attendance": 0.76
+  },
+  {
+    "name": "Đào Hùng Hiếu",
+    "age": 16,
+    "student_id": "HS196",
+    "class_name": "11B1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      6.6,
+      5.8,
+      8.5,
+      7.2,
+      8.6,
+      6.3
+    ],
+    "final_score": 8.0,
+    "attendance": 0.77
+  },
+  {
+    "name": "Trần Ngọc Linh",
+    "age": 18,
+    "student_id": "HS197",
+    "class_name": "12A4",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      4.0,
+      4.3,
+      4.4,
+      3.3,
+      3.3,
+      4.9
+    ],
+    "final_score": 6.0,
+    "attendance": 0.55
+  },
+  {
+    "name": "Trương Linh Chi",
+    "age": 18,
+    "student_id": "HS198",
+    "class_name": "12A1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      5.2,
+      6.1,
+      7.9
+    ],
+    "final_score": 8.0,
+    "attendance": 0.68
+  },
+  {
+    "name": "Cao Thu Hoa",
+    "age": 18,
+    "student_id": "HS199",
+    "class_name": "12B1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      7.0,
+      5.9,
+      8.1,
+      5.8,
+      8.2
+    ],
+    "final_score": 7.0,
+    "attendance": 0.57
+  },
+  {
+    "name": "Huỳnh Ánh Xuân",
+    "age": 17,
+    "student_id": "HS200",
+    "class_name": "11A4",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      4.8,
+      5.7,
+      5.1,
+      6.0,
+      5.7
+    ],
+    "final_score": 7.0,
+    "attendance": 0.78
+  },
+  {
+    "name": "Tô Quang Long",
+    "age": 16,
+    "student_id": "HS201",
+    "class_name": "11A2",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      6.4,
+      4.5,
+      7.2,
+      4.7,
+      4.4,
+      5.3
+    ],
+    "final_score": 7.3,
+    "attendance": 0.63
+  },
+  {
+    "name": "Ngô Anh Rồng",
+    "age": 18,
+    "student_id": "HS202",
+    "class_name": "12B1",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      7.9,
+      9.2,
+      7.6,
+      7.3
+    ],
+    "final_score": 8.5,
+    "attendance": 0.88
+  },
+  {
+    "name": "Dương Tài Nam",
+    "age": 18,
+    "student_id": "HS203",
+    "class_name": "12B2",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      6.1,
+      6.3,
+      7.2,
+      6.2,
+      8.5
+    ],
+    "final_score": 7.6,
+    "attendance": 0.94
+  },
+  {
+    "name": "Cao Linh Hiền",
+    "age": 17,
+    "student_id": "HS204",
+    "class_name": "11A1",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      5.4,
+      5.3,
+      6.3,
+      4.8,
+      4.7
+    ],
+    "final_score": 6.2,
+    "attendance": 0.71
+  },
+  {
+    "name": "Đặng Minh Minh",
+    "age": 16,
+    "student_id": "HS205",
+    "class_name": "10A3",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      8.3,
+      6.7,
+      7.5,
+      6.7,
+      6.2,
+      8.1
+    ],
+    "final_score": 8.8,
+    "attendance": 0.85
+  },
+  {
+    "name": "Vũ Minh Khoa",
+    "age": 17,
+    "student_id": "HS206",
+    "class_name": "12B1",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      6.0,
+      8.0,
+      5.7,
+      7.3,
+      8.5
+    ],
+    "final_score": 7.5,
+    "attendance": 0.57
+  },
+  {
+    "name": "Thái Bích Sương",
+    "age": 17,
+    "student_id": "HS207",
+    "class_name": "11A1",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      5.1,
+      6.6,
+      6.9
+    ],
+    "final_score": 6.2,
+    "attendance": 0.84
+  },
+  {
+    "name": "Doãn Trung Rồng",
+    "age": 15,
+    "student_id": "HS208",
+    "class_name": "10B2",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      10.0,
+      10.0,
+      10.0,
+      8.2
+    ],
+    "final_score": 9.8,
+    "attendance": 0.73
+  },
+  {
+    "name": "Doãn Hùng Minh",
+    "age": 18,
+    "student_id": "HS209",
+    "class_name": "12A3",
+    "school": "THPT Gia Định",
+    "process_score": [
+      8.2,
+      6.8,
+      8.0,
+      7.7,
+      7.9,
+      5.8
+    ],
+    "final_score": 8.6,
+    "attendance": 0.61
+  },
+  {
+    "name": "Kiều Linh Vân",
+    "age": 16,
+    "student_id": "HS210",
+    "class_name": "11A1",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      5.5,
+      7.2,
+      5.7,
+      5.6,
+      6.2,
+      5.9
+    ],
+    "final_score": 7.4,
+    "attendance": 0.84
+  },
+  {
+    "name": "Hồ Lan Quỳnh",
+    "age": 17,
+    "student_id": "HS211",
+    "class_name": "11A3",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      6.4,
+      4.5,
+      4.7,
+      5.2,
+      5.5
+    ],
+    "final_score": 6.1,
+    "attendance": 0.88
+  },
+  {
+    "name": "Hà Kim Châu",
+    "age": 17,
+    "student_id": "HS212",
+    "class_name": "11A4",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      6.7,
+      6.3,
+      5.7,
+      6.1,
+      5.9,
+      6.1
+    ],
+    "final_score": 7.4,
+    "attendance": 0.65
+  },
+  {
+    "name": "Cao Tuấn Khoa",
+    "age": 16,
+    "student_id": "HS213",
+    "class_name": "10A3",
+    "school": "THPT Gia Định",
+    "process_score": [
+      5.7,
+      5.5,
+      5.7
+    ],
+    "final_score": 7.1,
+    "attendance": 0.71
+  },
+  {
+    "name": "Huỳnh Hùng Vương",
+    "age": 18,
+    "student_id": "HS214",
+    "class_name": "12B1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      3.6,
+      4.5,
+      3.5,
+      3.6,
+      3.5,
+      2.3
+    ],
+    "final_score": 4.9,
+    "attendance": 0.64
+  },
+  {
+    "name": "Tạ Linh Lệ",
+    "age": 16,
+    "student_id": "HS215",
+    "class_name": "10A1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      3.8,
+      3.0,
+      5.8
+    ],
+    "final_score": 5.8,
+    "attendance": 0.55
+  },
+  {
+    "name": "Doãn Quang Bình",
+    "age": 17,
+    "student_id": "HS216",
+    "class_name": "11A4",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      5.8,
+      4.5,
+      5.9,
+      4.2,
+      3.3,
+      6.0
+    ],
+    "final_score": 5.4,
+    "attendance": 0.61
+  },
+  {
+    "name": "Thái Long Dũng",
+    "age": 16,
+    "student_id": "HS217",
+    "class_name": "10B2",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      8.3,
+      6.8,
+      7.6
+    ],
+    "final_score": 7.1,
+    "attendance": 0.88
+  },
+  {
+    "name": "Trương Ánh Thảo",
+    "age": 16,
+    "student_id": "HS218",
+    "class_name": "11A2",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      5.7,
+      5.5,
+      6.5
+    ],
+    "final_score": 6.8,
+    "attendance": 0.62
+  },
+  {
+    "name": "Vũ Anh Cường",
+    "age": 15,
+    "student_id": "HS219",
+    "class_name": "10A4",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      4.2,
+      5.4,
+      5.7
+    ],
+    "final_score": 6.8,
+    "attendance": 0.85
+  },
+  {
+    "name": "Hoàng Phú Minh",
+    "age": 17,
+    "student_id": "HS220",
+    "class_name": "11A2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      7.2,
+      7.5,
+      6.1,
+      5.8,
+      5.4
+    ],
+    "final_score": 7.3,
+    "attendance": 0.9
+  },
+  {
+    "name": "Thái Duy Vinh",
+    "age": 17,
+    "student_id": "HS221",
+    "class_name": "12A4",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      8.4,
+      8.7,
+      7.9,
+      8.6,
+      9.7,
+      8.9
+    ],
+    "final_score": 9.3,
+    "attendance": 0.97
+  },
+  {
+    "name": "Đặng Đức Quý",
+    "age": 17,
+    "student_id": "HS222",
+    "class_name": "12A3",
+    "school": "THPT Gia Định",
+    "process_score": [
+      5.5,
+      5.7,
+      5.0,
+      6.1
+    ],
+    "final_score": 7.2,
+    "attendance": 0.99
+  },
+  {
+    "name": "Lê Oanh Lệ",
+    "age": 16,
+    "student_id": "HS223",
+    "class_name": "11A1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      5.1,
+      6.8,
+      6.7
+    ],
+    "final_score": 5.9,
+    "attendance": 0.85
+  },
+  {
+    "name": "Lý Anh Vương",
+    "age": 17,
+    "student_id": "HS224",
+    "class_name": "11B1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      9.4,
+      9.9,
+      9.3
+    ],
+    "final_score": 9.1,
+    "attendance": 0.56
+  },
+  {
+    "name": "Hồ Tuấn Vinh",
+    "age": 17,
+    "student_id": "HS225",
+    "class_name": "11B1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      5.4,
+      5.4,
+      4.2,
+      6.8,
+      5.3
+    ],
+    "final_score": 6.5,
+    "attendance": 0.79
+  },
+  {
+    "name": "Doãn Hồng Ngọc",
+    "age": 17,
+    "student_id": "HS226",
+    "class_name": "11B1",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      3.0,
+      3.1,
+      3.5,
+      2.2
+    ],
+    "final_score": 4.2,
+    "attendance": 0.94
+  },
+  {
+    "name": "Bùi Tuấn Quân",
+    "age": 17,
+    "student_id": "HS227",
+    "class_name": "11A2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      7.0,
+      7.7,
+      7.7,
+      6.9,
+      7.7
+    ],
+    "final_score": 7.2,
+    "attendance": 0.97
+  },
+  {
+    "name": "Huỳnh Thu Lệ",
+    "age": 18,
+    "student_id": "HS228",
+    "class_name": "12B2",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      5.9,
+      3.6,
+      5.9
+    ],
+    "final_score": 5.4,
+    "attendance": 0.95
+  },
+  {
+    "name": "Cao Văn Rồng",
+    "age": 15,
+    "student_id": "HS229",
+    "class_name": "10B1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      4.1,
+      4.3,
+      4.1,
+      3.7,
+      3.8,
+      2.3
+    ],
+    "final_score": 4.5,
+    "attendance": 0.62
+  },
+  {
+    "name": "Nguyễn Thị Trang",
+    "age": 17,
+    "student_id": "HS230",
+    "class_name": "11A3",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      5.2,
+      2.8,
+      2.7,
+      2.9,
+      3.0,
+      4.0
+    ],
+    "final_score": 3.7,
+    "attendance": 0.92
+  },
+  {
+    "name": "Võ Ánh Chi",
+    "age": 17,
+    "student_id": "HS231",
+    "class_name": "11B2",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      6.7,
+      4.5,
+      7.2,
+      6.2
+    ],
+    "final_score": 6.8,
+    "attendance": 0.66
+  },
+  {
+    "name": "Lê Nam Quân",
+    "age": 18,
+    "student_id": "HS232",
+    "class_name": "12A1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      3.7,
+      4.7,
+      4.1
+    ],
+    "final_score": 4.3,
+    "attendance": 0.55
+  },
+  {
+    "name": "Chu Phú Hiếu",
+    "age": 15,
+    "student_id": "HS233",
+    "class_name": "10A2",
+    "school": "THPT Gia Định",
+    "process_score": [
+      5.9,
+      5.1,
+      3.9,
+      4.7,
+      5.1,
+      3.6
+    ],
+    "final_score": 5.6,
+    "attendance": 0.94
+  },
+  {
+    "name": "Nguyễn Hồng Vân",
+    "age": 16,
+    "student_id": "HS234",
+    "class_name": "10B1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      9.2,
+      8.7,
+      8.3,
+      7.8
+    ],
+    "final_score": 8.9,
+    "attendance": 0.68
+  },
+  {
+    "name": "Kiều Quốc Tuấn",
+    "age": 16,
+    "student_id": "HS235",
+    "class_name": "11B2",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      4.9,
+      4.8,
+      5.9,
+      4.0,
+      4.9
+    ],
+    "final_score": 4.8,
+    "attendance": 0.65
+  },
+  {
+    "name": "Lý Lan Ngọc",
+    "age": 18,
+    "student_id": "HS236",
+    "class_name": "12B2",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      5.6,
+      6.1,
+      5.8,
+      3.9,
+      4.2,
+      5.8
+    ],
+    "final_score": 6.7,
+    "attendance": 0.86
+  },
+  {
+    "name": "Mã Nam Nam",
+    "age": 16,
+    "student_id": "HS237",
+    "class_name": "11B2",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      3.6,
+      3.5,
+      4.5,
+      4.9,
+      4.8
+    ],
+    "final_score": 4.7,
+    "attendance": 0.97
+  },
+  {
+    "name": "Nguyễn Quốc Phong",
+    "age": 17,
+    "student_id": "HS238",
+    "class_name": "12B2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      5.3,
+      6.4,
+      6.3,
+      5.8,
+      7.1,
+      4.8
+    ],
+    "final_score": 7.3,
+    "attendance": 0.9
+  },
+  {
+    "name": "Tạ Nam Giang",
+    "age": 16,
+    "student_id": "HS239",
+    "class_name": "10B1",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      5.1,
+      5.3,
+      4.1,
+      4.6
+    ],
+    "final_score": 6.1,
+    "attendance": 0.77
+  },
+  {
+    "name": "Mã Quang Yên",
+    "age": 17,
+    "student_id": "HS240",
+    "class_name": "11A1",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      4.6,
+      6.1,
+      4.8,
+      4.8,
+      6.0
+    ],
+    "final_score": 4.8,
+    "attendance": 0.69
+  },
+  {
+    "name": "Đặng Hùng Yên",
+    "age": 17,
+    "student_id": "HS241",
+    "class_name": "11A1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.4,
+      7.4,
+      6.8,
+      5.4,
+      5.3
+    ],
+    "final_score": 6.1,
+    "attendance": 0.98
+  },
+  {
+    "name": "Đỗ Kim Hằng",
+    "age": 16,
+    "student_id": "HS242",
+    "class_name": "11A1",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      6.9,
+      8.6,
+      8.7,
+      6.4,
+      8.8,
+      8.6
+    ],
+    "final_score": 7.6,
+    "attendance": 0.8
+  },
+  {
+    "name": "Hoàng Linh Khánh",
+    "age": 16,
+    "student_id": "HS243",
+    "class_name": "11A3",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      7.9,
+      7.7,
+      8.0,
+      9.3,
+      8.6,
+      8.1
+    ],
+    "final_score": 7.8,
+    "attendance": 0.91
+  },
+  {
+    "name": "Hà Oanh Xuân",
+    "age": 15,
+    "student_id": "HS244",
+    "class_name": "10A3",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.1,
+      8.9,
+      8.0,
+      7.2
+    ],
+    "final_score": 8.0,
+    "attendance": 0.85
+  },
+  {
+    "name": "Kiều Hà Duyên",
+    "age": 15,
+    "student_id": "HS245",
+    "class_name": "10A1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      4.9,
+      6.0,
+      5.5,
+      5.2
+    ],
+    "final_score": 5.9,
+    "attendance": 0.78
+  },
+  {
+    "name": "Nguyễn Bích Duyên",
+    "age": 17,
+    "student_id": "HS246",
+    "class_name": "11A4",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      7.1,
+      8.5,
+      7.7,
+      7.2
+    ],
+    "final_score": 8.8,
+    "attendance": 0.59
+  },
+  {
+    "name": "Dương Bảo Nam",
+    "age": 16,
+    "student_id": "HS247",
+    "class_name": "10A3",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      4.6,
+      3.1,
+      5.5,
+      3.3,
+      3.1
+    ],
+    "final_score": 4.2,
+    "attendance": 0.87
+  },
+  {
+    "name": "Bùi Tài Rồng",
+    "age": 17,
+    "student_id": "HS248",
+    "class_name": "12A3",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      7.8,
+      8.2,
+      6.9,
+      6.9,
+      5.6,
+      6.2
+    ],
+    "final_score": 8.1,
+    "attendance": 0.83
+  },
+  {
+    "name": "Cao Mỹ Vân",
+    "age": 15,
+    "student_id": "HS249",
+    "class_name": "10A4",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      6.1,
+      7.5,
+      5.5,
+      5.8,
+      5.8
+    ],
+    "final_score": 6.4,
+    "attendance": 0.64
+  },
+  {
+    "name": "Đỗ Long Vương",
+    "age": 17,
+    "student_id": "HS250",
+    "class_name": "12A3",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      7.2,
+      6.9,
+      6.6
+    ],
+    "final_score": 8.2,
+    "attendance": 0.87
+  },
+  {
+    "name": "Hà Thu Trang",
+    "age": 18,
+    "student_id": "HS251",
+    "class_name": "12A1",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      6.7,
+      7.8,
+      7.8,
+      5.6
+    ],
+    "final_score": 7.3,
+    "attendance": 0.81
+  },
+  {
+    "name": "Lý Thành Em",
+    "age": 16,
+    "student_id": "HS252",
+    "class_name": "10B2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      8.3,
+      7.5,
+      8.0,
+      8.6,
+      8.8
+    ],
+    "final_score": 8.3,
+    "attendance": 0.83
+  },
+  {
+    "name": "Tạ Bích Phương",
+    "age": 18,
+    "student_id": "HS253",
+    "class_name": "12A3",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      3.7,
+      4.5,
+      3.4,
+      4.2
+    ],
+    "final_score": 5.3,
+    "attendance": 0.8
+  },
+  {
+    "name": "Trương Yến Duyên",
+    "age": 16,
+    "student_id": "HS254",
+    "class_name": "10A4",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      7.5,
+      6.9,
+      7.5
+    ],
+    "final_score": 8.0,
+    "attendance": 0.92
+  },
+  {
+    "name": "Đặng Minh Sơn",
+    "age": 17,
+    "student_id": "HS255",
+    "class_name": "11A3",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      7.3,
+      9.0,
+      8.4
+    ],
+    "final_score": 8.4,
+    "attendance": 0.59
+  },
+  {
+    "name": "Tống Vân Châu",
+    "age": 17,
+    "student_id": "HS256",
+    "class_name": "12A2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      7.5,
+      7.4,
+      7.6,
+      6.3
+    ],
+    "final_score": 7.4,
+    "attendance": 0.9
+  },
+  {
+    "name": "Đặng Trang Lan",
+    "age": 17,
+    "student_id": "HS257",
+    "class_name": "12B1",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      6.7,
+      4.5,
+      6.7
+    ],
+    "final_score": 5.1,
+    "attendance": 0.89
+  },
+  {
+    "name": "Hoàng Hùng Trung",
+    "age": 17,
+    "student_id": "HS258",
+    "class_name": "11A2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      4.7,
+      6.8,
+      6.8,
+      5.7,
+      6.7,
+      6.5
+    ],
+    "final_score": 6.9,
+    "attendance": 0.81
+  },
+  {
+    "name": "Dương Bích Mai",
+    "age": 15,
+    "student_id": "HS259",
+    "class_name": "10A1",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      8.6,
+      7.4,
+      9.1,
+      8.7,
+      7.7
+    ],
+    "final_score": 7.8,
+    "attendance": 0.76
+  },
+  {
+    "name": "Đào Linh Mai",
+    "age": 17,
+    "student_id": "HS260",
+    "class_name": "12B2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.0,
+      6.6,
+      4.1
+    ],
+    "final_score": 7.2,
+    "attendance": 0.77
+  },
+  {
+    "name": "Dương Bảo An",
+    "age": 17,
+    "student_id": "HS261",
+    "class_name": "12A2",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      9.3,
+      7.4,
+      8.5,
+      7.3,
+      7.7
+    ],
+    "final_score": 9.7,
+    "attendance": 0.96
+  },
+  {
+    "name": "Trần Nam Hải",
+    "age": 16,
+    "student_id": "HS262",
+    "class_name": "11A4",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      4.2,
+      5.7,
+      5.5
+    ],
+    "final_score": 6.7,
+    "attendance": 0.59
+  },
+  {
+    "name": "Nguyễn Thị Hiền",
+    "age": 16,
+    "student_id": "HS263",
+    "class_name": "11B1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      7.3,
+      8.4,
+      6.5,
+      7.1,
+      8.8,
+      6.6
+    ],
+    "final_score": 9.5,
+    "attendance": 0.74
+  },
+  {
+    "name": "Thái Đức Cường",
+    "age": 17,
+    "student_id": "HS264",
+    "class_name": "12B1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      5.9,
+      6.7,
+      7.5,
+      8.0
+    ],
+    "final_score": 7.4,
+    "attendance": 0.62
+  },
+  {
+    "name": "Chu Hữu Em",
+    "age": 16,
+    "student_id": "HS265",
+    "class_name": "10A4",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      5.6,
+      4.4,
+      5.5,
+      5.8
+    ],
+    "final_score": 6.3,
+    "attendance": 0.74
+  },
+  {
+    "name": "Cao Thị Vy",
+    "age": 16,
+    "student_id": "HS266",
+    "class_name": "11A4",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      4.6,
+      7.1,
+      7.3,
+      5.9,
+      4.7,
+      5.9
+    ],
+    "final_score": 7.0,
+    "attendance": 0.78
+  },
+  {
+    "name": "Đinh Văn Phong",
+    "age": 16,
+    "student_id": "HS267",
+    "class_name": "11B1",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      5.0,
+      5.9,
+      7.4,
+      4.7,
+      6.2
+    ],
+    "final_score": 6.5,
+    "attendance": 0.93
+  },
+  {
+    "name": "Võ Anh Bình",
+    "age": 16,
+    "student_id": "HS268",
+    "class_name": "10A2",
+    "school": "THPT Gia Định",
+    "process_score": [
+      5.9,
+      6.6,
+      6.3,
+      5.1,
+      4.9,
+      4.9
+    ],
+    "final_score": 7.0,
+    "attendance": 0.83
+  },
+  {
+    "name": "Kiều Đức Vinh",
+    "age": 17,
+    "student_id": "HS269",
+    "class_name": "11B1",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      6.0,
+      7.6,
+      5.4
+    ],
+    "final_score": 7.3,
+    "attendance": 0.89
+  },
+  {
+    "name": "Lê Duy Dũng",
+    "age": 17,
+    "student_id": "HS270",
+    "class_name": "12A3",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      5.4,
+      5.3,
+      3.7,
+      6.1
+    ],
+    "final_score": 6.1,
+    "attendance": 0.88
+  },
+  {
+    "name": "Huỳnh Phương Em",
+    "age": 16,
+    "student_id": "HS271",
+    "class_name": "11A3",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      5.4,
+      7.4,
+      7.0,
+      5.5,
+      6.6,
+      6.3
+    ],
+    "final_score": 8.0,
+    "attendance": 0.56
+  },
+  {
+    "name": "Tống Trang Giang",
+    "age": 16,
+    "student_id": "HS272",
+    "class_name": "11B2",
+    "school": "THPT Gia Định",
+    "process_score": [
+      4.7,
+      3.3,
+      5.8
+    ],
+    "final_score": 5.8,
+    "attendance": 0.6
+  },
+  {
+    "name": "Trần Quang Phong",
+    "age": 17,
+    "student_id": "HS273",
+    "class_name": "12A1",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      3.6,
+      5.6,
+      3.8,
+      5.3,
+      4.5,
+      3.2
+    ],
+    "final_score": 5.4,
+    "attendance": 0.98
+  },
+  {
+    "name": "Huỳnh Tuấn Quý",
+    "age": 17,
+    "student_id": "HS274",
+    "class_name": "12B1",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      8.2,
+      7.5,
+      8.6,
+      8.3,
+      8.1
+    ],
+    "final_score": 9.1,
+    "attendance": 0.58
+  },
+  {
+    "name": "Mã Vân Khánh",
+    "age": 18,
+    "student_id": "HS275",
+    "class_name": "12A3",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      7.2,
+      7.9,
+      6.0,
+      8.3
+    ],
+    "final_score": 7.3,
+    "attendance": 0.77
+  },
+  {
+    "name": "Vũ Tài Phong",
+    "age": 16,
+    "student_id": "HS276",
+    "class_name": "10A1",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      2.2,
+      1.3,
+      2.1,
+      0.8,
+      3.6
+    ],
+    "final_score": 3.2,
+    "attendance": 0.85
+  },
+  {
+    "name": "Lê Ngọc Hằng",
+    "age": 17,
+    "student_id": "HS277",
+    "class_name": "11A2",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      7.1,
+      7.5,
+      6.8
+    ],
+    "final_score": 7.7,
+    "attendance": 0.72
+  },
+  {
+    "name": "Ngô Đức Kiên",
+    "age": 17,
+    "student_id": "HS278",
+    "class_name": "11A4",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      6.5,
+      5.9,
+      6.3,
+      8.0,
+      7.5
+    ],
+    "final_score": 8.4,
+    "attendance": 0.97
+  },
+  {
+    "name": "Phạm Trung Sơn",
+    "age": 18,
+    "student_id": "HS279",
+    "class_name": "12A3",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      5.7,
+      6.9,
+      4.6,
+      6.8
+    ],
+    "final_score": 6.6,
+    "attendance": 0.79
+  },
+  {
+    "name": "Đào Vân Bảo",
+    "age": 17,
+    "student_id": "HS280",
+    "class_name": "11A1",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      5.2,
+      4.0,
+      6.2,
+      3.3,
+      4.4,
+      4.6
+    ],
+    "final_score": 5.2,
+    "attendance": 0.87
+  },
+  {
+    "name": "Phạm Bảo Dũng",
+    "age": 15,
+    "student_id": "HS281",
+    "class_name": "10B1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      2.3,
+      3.2,
+      3.9,
+      1.4
+    ],
+    "final_score": 3.6,
+    "attendance": 0.92
+  },
+  {
+    "name": "Doãn Mỹ An",
+    "age": 15,
+    "student_id": "HS282",
+    "class_name": "10A3",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      9.6,
+      8.1,
+      7.3
+    ],
+    "final_score": 8.7,
+    "attendance": 0.75
+  },
+  {
+    "name": "Trần Thúy Hằng",
+    "age": 18,
+    "student_id": "HS283",
+    "class_name": "12A2",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      7.2,
+      5.3,
+      5.8,
+      5.0
+    ],
+    "final_score": 7.0,
+    "attendance": 0.72
+  },
+  {
+    "name": "Thái Thành Thắng",
+    "age": 18,
+    "student_id": "HS284",
+    "class_name": "12A2",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      4.5,
+      3.4,
+      3.8,
+      4.3,
+      4.2,
+      4.8
+    ],
+    "final_score": 4.4,
+    "attendance": 0.68
+  },
+  {
+    "name": "Lý Oanh Phụng",
+    "age": 18,
+    "student_id": "HS285",
+    "class_name": "12A4",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      6.7,
+      6.4,
+      8.5,
+      8.1,
+      6.0
+    ],
+    "final_score": 8.8,
+    "attendance": 0.78
+  },
+  {
+    "name": "Đinh Phương Nhi",
+    "age": 16,
+    "student_id": "HS286",
+    "class_name": "11A2",
+    "school": "THPT Nguyễn Trãi",
+    "process_score": [
+      6.2,
+      5.1,
+      6.3
+    ],
+    "final_score": 4.8,
+    "attendance": 0.85
+  },
+  {
+    "name": "Đỗ Thúy Giang",
+    "age": 17,
+    "student_id": "HS287",
+    "class_name": "11A2",
+    "school": "THPT Gia Định",
+    "process_score": [
+      7.3,
+      8.0,
+      6.7
+    ],
+    "final_score": 8.2,
+    "attendance": 0.86
+  },
+  {
+    "name": "Đào Quang Vinh",
+    "age": 16,
+    "student_id": "HS288",
+    "class_name": "11A4",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      5.2,
+      4.7,
+      5.6,
+      6.2
+    ],
+    "final_score": 6.9,
+    "attendance": 0.59
+  },
+  {
+    "name": "Hà Thúy Hằng",
+    "age": 16,
+    "student_id": "HS289",
+    "class_name": "11B1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      5.2,
+      5.5,
+      3.7
+    ],
+    "final_score": 3.8,
+    "attendance": 0.81
+  },
+  {
+    "name": "Lâm Kim Mai",
+    "age": 17,
+    "student_id": "HS290",
+    "class_name": "11A4",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      3.9,
+      6.3,
+      5.5,
+      6.2,
+      5.7,
+      4.1
+    ],
+    "final_score": 5.1,
+    "attendance": 0.62
+  },
+  {
+    "name": "Hồ Thành Ninh",
+    "age": 16,
+    "student_id": "HS291",
+    "class_name": "11A4",
+    "school": "THPT Bùi Thị Xuân",
+    "process_score": [
+      6.4,
+      5.8,
+      4.6,
+      5.0,
+      6.5,
+      5.9
+    ],
+    "final_score": 5.4,
+    "attendance": 0.55
+  },
+  {
+    "name": "Doãn Quang Em",
+    "age": 16,
+    "student_id": "HS292",
+    "class_name": "11B1",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      6.3,
+      6.5,
+      5.3
+    ],
+    "final_score": 5.7,
+    "attendance": 0.99
+  },
+  {
+    "name": "Võ Anh Kiên",
+    "age": 16,
+    "student_id": "HS293",
+    "class_name": "10A3",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      5.7,
+      6.4,
+      6.1
+    ],
+    "final_score": 5.8,
+    "attendance": 0.6
+  },
+  {
+    "name": "Chu Ánh Ngọc",
+    "age": 18,
+    "student_id": "HS294",
+    "class_name": "12B2",
+    "school": "THPT Nguyễn Thị Minh Khai",
+    "process_score": [
+      2.4,
+      4.7,
+      3.0,
+      3.1
+    ],
+    "final_score": 4.8,
+    "attendance": 0.77
+  },
+  {
+    "name": "Lê Hùng Giang",
+    "age": 17,
+    "student_id": "HS295",
+    "class_name": "12A1",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      7.5,
+      7.2,
+      5.8,
+      8.5,
+      6.2
+    ],
+    "final_score": 7.8,
+    "attendance": 0.8
+  },
+  {
+    "name": "Huỳnh Ngọc Duyên",
+    "age": 16,
+    "student_id": "HS296",
+    "class_name": "11B1",
+    "school": "THPT Gia Định",
+    "process_score": [
+      8.1,
+      7.5,
+      8.4,
+      8.8,
+      8.7
+    ],
+    "final_score": 9.3,
+    "attendance": 0.73
+  },
+  {
+    "name": "Đỗ Văn Rồng",
+    "age": 16,
+    "student_id": "HS297",
+    "class_name": "10A3",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      5.7,
+      7.0,
+      8.0,
+      6.5
+    ],
+    "final_score": 8.2,
+    "attendance": 0.83
+  },
+  {
+    "name": "Đặng Nam Thắng",
+    "age": 18,
+    "student_id": "HS298",
+    "class_name": "12A4",
+    "school": "THPT Lê Hồng Phong",
+    "process_score": [
+      4.6,
+      4.8,
+      4.3,
+      4.9,
+      4.2
+    ],
+    "final_score": 4.7,
+    "attendance": 0.79
+  },
+  {
+    "name": "Lâm Ngọc Em",
+    "age": 15,
+    "student_id": "HS299",
+    "class_name": "10A4",
+    "school": "THPT Trần Phú",
+    "process_score": [
+      8.0,
+      7.9,
+      6.7,
+      7.1
+    ],
+    "final_score": 7.6,
+    "attendance": 0.91
+  },
+  {
+    "name": "Lâm Lan Sương",
+    "age": 16,
+    "student_id": "HS300",
+    "class_name": "11A4",
+    "school": "THPT Chu Văn An",
+    "process_score": [
+      5.9,
+      4.1,
+      6.5,
+      6.5
+    ],
+    "final_score": 6.5,
+    "attendance": 0.93
+  }
+]
